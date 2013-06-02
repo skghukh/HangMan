@@ -1,4 +1,4 @@
 HangMan
 =======
 
-This repository is for my hangman games android application
+This repository is for my hangman game android application
